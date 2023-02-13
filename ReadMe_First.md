@@ -2,11 +2,10 @@
 
 It is a deep learning project done purely in python using Anaconda3-2021.11's jupyter notebook.
 
-Datasets were extracted from kaggle.
+Data was extracted from kaggle. 
+Link: 
+https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set
 There are a total of 70 different breeds of dog. 
-Training samples = 7946
-Validation Samples = 700
-Test Samples = 700
 
 Dependencies include:
 1. Tensorflow
