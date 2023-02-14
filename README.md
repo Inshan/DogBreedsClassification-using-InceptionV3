@@ -15,5 +15,5 @@ Dependencies include:
 6. OpenCV
 7. OS
 
-The project uses InceptionV3 (Transfer Learning) to correctly predict different dog-breeds. 
+The project uses InceptionV3 to correctly predict different dog-breeds. 
 Though there is some loss, the model's accuracy is more than 85%.
